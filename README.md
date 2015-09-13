@@ -1,3 +1,3 @@
 # Hangman-tutorial
-Beginner python tutorial
-q
+Beginner python hangman tutorial
+useful: http://learnxinyminutes.com/docs/python3/
